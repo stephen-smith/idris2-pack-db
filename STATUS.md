@@ -104,13 +104,14 @@
 | [ilex-streams](https://github.com/stefan-hoeck/idris2-ilex) | Lexing streams of raw bytes |  | [a07a214](https://github.com/stefan-hoeck/idris2-ilex/commit/a07a214d2284b73622f7ff583b7c2c3f146155ab) |  | [docs](https://stefan-hoeck.github.io/idris2-pack-db/docs/ilex-streams/docs/index.html) |
 | [ilex-toml](https://github.com/stefan-hoeck/idris2-ilex) | Stack-safe and efficient parser for the TOML config file language |  | [a07a214](https://github.com/stefan-hoeck/idris2-ilex/commit/a07a214d2284b73622f7ff583b7c2c3f146155ab) |  | [docs](https://stefan-hoeck.github.io/idris2-pack-db/docs/ilex-toml/docs/index.html) |
 | [indexed](https://github.com/mattpolzin/idris-indexed) |  |  | [c99707f](https://github.com/mattpolzin/idris-indexed/commit/c99707f1db2efa2e97c465b16b525cb79b28f349) |  | [docs](https://stefan-hoeck.github.io/idris2-pack-db/docs/indexed/docs/index.html) |
-| [indexed-graph](https://github.com/stefan-hoeck/idris2-indexed-graph) | Array-backed, order indexed, sparse, simple graphs in Idris2 | BSD-3 Clause | [2827719](https://github.com/stefan-hoeck/idris2-indexed-graph/commit/2827719fcde97054e774a3f60ef734fa2b2046a8) |  | [docs](https://stefan-hoeck.github.io/idris2-pack-db/docs/indexed-graph/docs/index.html) |
+| [indexed-graph](https://github.com/stefan-hoeck/idris2-indexed-graph) | Array-backed, order indexed, sparse, simple graphs in Idris2 | BSD-3 Clause | [efa4306](https://github.com/stefan-hoeck/idris2-indexed-graph/commit/efa4306114261d222be802eb3188b253a5640d8c) |  | [docs](https://stefan-hoeck.github.io/idris2-pack-db/docs/indexed-graph/docs/index.html) |
 | [js](https://github.com/stefan-hoeck/idris2-dom) | Utilities for working with the JavaScript backends |  | [2bb2071](https://github.com/stefan-hoeck/idris2-dom/commit/2bb2071a849f2ffd07211cb5f23b9e39c9ded319) |  | [docs](https://stefan-hoeck.github.io/idris2-pack-db/docs/js/docs/index.html) |
 | [json](https://github.com/stefan-hoeck/idris2-json) | Derivable JSON marshallers for Idris2 |  | [b15189c](https://github.com/stefan-hoeck/idris2-json/commit/b15189c7198143e1357802ce8748dc1ab544da76) | success | [docs](https://stefan-hoeck.github.io/idris2-pack-db/docs/json/docs/index.html) |
 | [json-simple](https://github.com/stefan-hoeck/idris2-json) | Simplified derivable JSON marshallers for simple people like me |  | [b15189c](https://github.com/stefan-hoeck/idris2-json/commit/b15189c7198143e1357802ce8748dc1ab544da76) | success | [docs](https://stefan-hoeck.github.io/idris2-pack-db/docs/json-simple/docs/index.html) |
 | [just-a-monad](https://github.com/Russoul/Just-a-Monad) |  |  | [4a69d28](https://github.com/Russoul/Just-a-Monad/commit/4a69d28651c6edefd30d313d6defd5914cb44931) |  | [docs](https://stefan-hoeck.github.io/idris2-pack-db/docs/just-a-monad/docs/index.html) |
 | [katla](https://github.com/idris-community/katla) |  |  | [b28e5be](https://github.com/idris-community/katla/commit/b28e5be98819e0516cc799bf57de1d6f56f70034) |  | [docs](https://stefan-hoeck.github.io/idris2-pack-db/docs/katla/docs/index.html) |
 | [katla-pandoc](https://github.com/idris-community/katla) |  |  | [b28e5be](https://github.com/idris-community/katla/commit/b28e5be98819e0516cc799bf57de1d6f56f70034) |  | [docs](https://stefan-hoeck.github.io/idris2-pack-db/docs/katla-pandoc/docs/index.html) |
+| [lana](https://git.sr.ht/~janus/lana) | Bi-directional and extensible JSON schemas using tagless final. Including serialization/deserialization. | MIT | [1530178](https://git.sr.ht/~janus/lana/commit/15301789fed2985cbe1d31bb862731ba8de33b00) |  | [docs](https://stefan-hoeck.github.io/idris2-pack-db/docs/lana/docs/index.html) |
 | [lens](https://github.com/kiana-S/idris2-lens) | Batteries-included profunctor optics | MIT | [d6bae26](https://github.com/kiana-S/idris2-lens/commit/d6bae26222a0b2290bf4146279bdc31bb900d527) |  | [docs](https://stefan-hoeck.github.io/idris2-pack-db/docs/lens/docs/index.html) |
 | [linear](https://github.com/idris-lang/Idris2) |  |  | [19a3f4e](https://github.com/idris-lang/Idris2/commit/19a3f4ec0c957220e7a5c0f98923932cdfcc6a48) |  | [docs](https://stefan-hoeck.github.io/idris2-pack-db/docs/linear/docs/index.html) |
 | [linux](https://github.com/stefan-hoeck/idris2-linux) | System utilities for using Idris2 on GNU/Linux |  | [f34c638](https://github.com/stefan-hoeck/idris2-linux/commit/f34c638ce71f0a46b8b0ef471e2a43e9a91a5853) |  | [docs](https://stefan-hoeck.github.io/idris2-pack-db/docs/linux/docs/index.html) |
@@ -228,7 +229,6 @@
 
 | Package | Dependencies | Commit |
 | --- | --- | --- |
-| [lana](https://git.sr.ht/~janus/lana) |  | [1530178](https://git.sr.ht/~janus/lana/commit/15301789fed2985cbe1d31bb862731ba8de33b00) |
 
 
 ## Unresolved Packages
