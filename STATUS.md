@@ -50,7 +50,7 @@
 | [cozippable](https://github.com/buzden/idris2-cozippable) |  | [157960a](https://github.com/buzden/idris2-cozippable/commit/157960afd73f8f30a9521f936945991dd8369a35) |
 | [cptr](https://github.com/stefan-hoeck/idris2-cptr) | base, linear | [63f224d](https://github.com/stefan-hoeck/idris2-cptr/commit/63f224d52af5c5655f022fb9c9a6edd34feefd50) |
 | [crypt](https://github.com/stefan-hoeck/idris2-crypt) | base | [f40a548](https://github.com/stefan-hoeck/idris2-crypt/commit/f40a54831395a2450839a4f29e50ad718a5d9953) |
-| [css](https://github.com/stefan-hoeck/idris2-css) | base | [34ecd2b](https://github.com/stefan-hoeck/idris2-css/commit/34ecd2b43f5302c39c07abceb534e1b933c2e37f) |
+| [css](https://github.com/stefan-hoeck/idris2-css) | base | [5fdeff0](https://github.com/stefan-hoeck/idris2-css/commit/5fdeff04d068a39bcd956850d49ada5a6bbcc6ae) |
 | [decord](https://github.com/jcranch/idris-decord) |  | [5ccae2e](https://github.com/jcranch/idris-decord/commit/5ccae2e639f13598bdd9a34b16c72d51bcaa4350) |
 | [dependent-map](https://github.com/JankaGramofonomanka/idris-dependent-map) | base, dtypes, prettier, linear, bounded-doubles, weaker-traversals | [19718e6](https://github.com/JankaGramofonomanka/idris-dependent-map/commit/19718e6df489aeb42d5084da01013eed9acd7ffc) |
 | [dependent-vect](https://github.com/buzden/idris2-dependent-vect) | fin-lizzie | [bd955c8](https://github.com/buzden/idris2-dependent-vect/commit/bd955c80acb46f9ed92101d7bd6c9090d2d7041d) |
