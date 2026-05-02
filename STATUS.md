@@ -172,7 +172,7 @@
 | [random-pure](https://github.com/buzden/idris2-random-pure) | base, prettier | [bfe091b](https://github.com/buzden/idris2-random-pure/commit/bfe091b2ee1bc561ca2e6c17ddeb9972964bd6e8) |
 | [ratio](https://github.com/kiana-S/idris2-ratio) |  | [1bdfde8](https://github.com/kiana-S/idris2-ratio/commit/1bdfde80d70c1dc63df186e32f7c86ba6545dff2) |
 | [records](https://github.com/kuribas/idris-records) |  | [4a57846](https://github.com/kuribas/idris-records/commit/4a5784648d3f8b544e7a375431fa70698e8ed6fc) |
-| [ref1](https://github.com/stefan-hoeck/idris2-ref1) | base, linear | [a310afb](https://github.com/stefan-hoeck/idris2-ref1/commit/a310afbb234cb5a405985bf3667c4ea5f5248084) |
+| [ref1](https://github.com/stefan-hoeck/idris2-ref1) | base, linear | [f5b7712](https://github.com/stefan-hoeck/idris2-ref1/commit/f5b771217295ee692080c08ce5627644c3f86c73) |
 | [refined](https://github.com/stefan-hoeck/idris2-refined) | base | [02e43fa](https://github.com/stefan-hoeck/idris2-refined/commit/02e43fa2b89076b4096c5f442bac7bea8814d552) |
 | [refined-json](https://github.com/stefan-hoeck/idris2-refined) | base, linear | [02e43fa](https://github.com/stefan-hoeck/idris2-refined/commit/02e43fa2b89076b4096c5f442bac7bea8814d552) |
 | [refined-tsv](https://github.com/stefan-hoeck/idris2-refined) | base, linear | [02e43fa](https://github.com/stefan-hoeck/idris2-refined/commit/02e43fa2b89076b4096c5f442bac7bea8814d552) |
