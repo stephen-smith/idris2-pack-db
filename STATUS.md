@@ -154,8 +154,8 @@
 | [pg-idris](https://github.com/mattpolzin/pg-idris) | indexed, base, linear | [509bc46](https://github.com/mattpolzin/pg-idris/commit/509bc468c9b30cdd0e7f554deeec9cf1b0832863) |
 | [pg-types](https://git.sr.ht/~janus/pg-types) | base | [b854bbc](https://git.sr.ht/~janus/pg-types/commit/b854bbcfb5e9e303d836d9b5a733b0060eb9e90a) |
 | [pipelines](https://gitlab.com/glaive-research/pipelines.git) | contrib | [a931a12](https://gitlab.com/glaive-research/pipelines.git/commit/a931a12b0fc3656ad279368deb4428cb2b38c144) |
-| [pjrt-plugin-xla-cpu](https://codeberg.org/joelberkeley/spidr) | base | [b1170d0](https://codeberg.org/joelberkeley/spidr/commit/b1170d081fa40169f16338fb2beef53b4448c3d8) |
-| [pjrt-plugin-xla-cuda](https://codeberg.org/joelberkeley/spidr) | base | [b1170d0](https://codeberg.org/joelberkeley/spidr/commit/b1170d081fa40169f16338fb2beef53b4448c3d8) |
+| [pjrt-plugin-xla-cpu](https://codeberg.org/joelberkeley/spidr) | base | [122007f](https://codeberg.org/joelberkeley/spidr/commit/122007fa66202f04d66a15763143faf5f74091e3) |
+| [pjrt-plugin-xla-cuda](https://codeberg.org/joelberkeley/spidr) | base | [122007f](https://codeberg.org/joelberkeley/spidr/commit/122007fa66202f04d66a15763143faf5f74091e3) |
 | [positive-nat](https://github.com/buzden/idris2-positive-nat) | if-unsolved-implicit | [6f0858b](https://github.com/buzden/idris2-positive-nat/commit/6f0858bc2158059231110babd02fa40b6ea3ff21) |
 | [posix](https://github.com/stefan-hoeck/idris2-linux) | base, linear | [f34c638](https://github.com/stefan-hoeck/idris2-linux/commit/f34c638ce71f0a46b8b0ef471e2a43e9a91a5853) |
 | [prelude](https://github.com/idris-lang/Idris2) |  | [214eb45](https://github.com/idris-lang/Idris2/commit/214eb45472e15187e6f932c6820a0f0d5542a18e) |
@@ -187,7 +187,7 @@
 | [simple-tests](https://gitlab.com/avidela/idris2-simple-tests) | contrib | [945aab7](https://gitlab.com/avidela/idris2-simple-tests/commit/945aab794e42d2d06c88433f9fd33c2c417e14d9) |
 | [snocvect](https://github.com/mattpolzin/idris-snocvect) |  | [dc2492b](https://github.com/mattpolzin/idris-snocvect/commit/dc2492be7e1d471c9b4d21e30339ea1ad8d24afa) |
 | [sop](https://github.com/stefan-hoeck/idris2-sop) | base | [1e01b67](https://github.com/stefan-hoeck/idris2-sop/commit/1e01b67a11857e9c9a0ea5fb2870bd915b5a223d) |
-| [spidr](https://codeberg.org/joelberkeley/spidr) | base | [b1170d0](https://codeberg.org/joelberkeley/spidr/commit/b1170d081fa40169f16338fb2beef53b4448c3d8) |
+| [spidr](https://codeberg.org/joelberkeley/spidr) | base | [122007f](https://codeberg.org/joelberkeley/spidr/commit/122007fa66202f04d66a15763143faf5f74091e3) |
 | [sqlite3](https://github.com/stefan-hoeck/idris2-sqlite3) | base, linear | [9241b49](https://github.com/stefan-hoeck/idris2-sqlite3/commit/9241b497a01c477c3a4014b9487dee300d83fe77) |
 | [sqlite3-rio](https://github.com/stefan-hoeck/idris2-sqlite3) | base, linear | [9241b49](https://github.com/stefan-hoeck/idris2-sqlite3/commit/9241b497a01c477c3a4014b9487dee300d83fe77) |
 | [stellar-api](https://gitlab.com/avidela/stellar) | base, contrib, fs-utils | [9df3a94](https://gitlab.com/avidela/stellar/commit/9df3a9467f800175db0f44483e0ee02705848bdf) |
