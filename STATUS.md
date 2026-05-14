@@ -20,7 +20,7 @@
 | [apache-mime-types](https://github.com/kbertalan/idris2-apache-mime-types) |  | [6c6ff58](https://github.com/kbertalan/idris2-apache-mime-types/commit/6c6ff58b6dd9446bf2f4ad7ca7a4e741d367a164) |
 | [array](https://github.com/stefan-hoeck/idris2-array) | base, linear | [8f9c84b](https://github.com/stefan-hoeck/idris2-array/commit/8f9c84bc71dae21c6fe430296c6a094f7706748c) |
 | [async](https://github.com/stefan-hoeck/idris2-async) | base, linear | [b5d7caa](https://github.com/stefan-hoeck/idris2-async/commit/b5d7caa9f73891886e76515d51be551201e4c026) |
-| [async-dom](https://github.com/stefan-hoeck/idris2-async-dom) | base, linear | [c217be0](https://github.com/stefan-hoeck/idris2-async-dom/commit/c217be05cf1acd0d096380c866c95657fb315faa) |
+| [async-dom](https://github.com/stefan-hoeck/idris2-async-dom) | base, linear | [bb9755a](https://github.com/stefan-hoeck/idris2-async-dom/commit/bb9755aec8c69967d7c74bcfc5c4ddfc26421d78) |
 | [async-epoll](https://github.com/stefan-hoeck/idris2-async) | base, linear | [b5d7caa](https://github.com/stefan-hoeck/idris2-async/commit/b5d7caa9f73891886e76515d51be551201e4c026) |
 | [async-js](https://github.com/stefan-hoeck/idris2-async) | base, linear | [b5d7caa](https://github.com/stefan-hoeck/idris2-async/commit/b5d7caa9f73891886e76515d51be551201e4c026) |
 | [async-posix](https://github.com/stefan-hoeck/idris2-async) | base, linear | [b5d7caa](https://github.com/stefan-hoeck/idris2-async/commit/b5d7caa9f73891886e76515d51be551201e4c026) |
@@ -50,7 +50,7 @@
 | [cozippable](https://github.com/buzden/idris2-cozippable) |  | [157960a](https://github.com/buzden/idris2-cozippable/commit/157960afd73f8f30a9521f936945991dd8369a35) |
 | [cptr](https://github.com/stefan-hoeck/idris2-cptr) | base, linear | [63f224d](https://github.com/stefan-hoeck/idris2-cptr/commit/63f224d52af5c5655f022fb9c9a6edd34feefd50) |
 | [crypt](https://github.com/stefan-hoeck/idris2-crypt) | base | [f40a548](https://github.com/stefan-hoeck/idris2-crypt/commit/f40a54831395a2450839a4f29e50ad718a5d9953) |
-| [css](https://github.com/stefan-hoeck/idris2-css) | base | [0193a8f](https://github.com/stefan-hoeck/idris2-css/commit/0193a8fa2e1bbabca35edf3aac69259ecf530ffb) |
+| [css](https://github.com/stefan-hoeck/idris2-css) | base | [d54e6c7](https://github.com/stefan-hoeck/idris2-css/commit/d54e6c7270b9d1664d10d6c9af90ba86febc8b74) |
 | [decord](https://github.com/jcranch/idris-decord) |  | [5ccae2e](https://github.com/jcranch/idris-decord/commit/5ccae2e639f13598bdd9a34b16c72d51bcaa4350) |
 | [dependent-map](https://github.com/JankaGramofonomanka/idris-dependent-map) | base, dtypes, prettier, linear, bounded-doubles, weaker-traversals | [19718e6](https://github.com/JankaGramofonomanka/idris-dependent-map/commit/19718e6df489aeb42d5084da01013eed9acd7ffc) |
 | [dependent-vect](https://github.com/buzden/idris2-dependent-vect) | fin-lizzie | [bd955c8](https://github.com/buzden/idris2-dependent-vect/commit/bd955c80acb46f9ed92101d7bd6c9090d2d7041d) |
